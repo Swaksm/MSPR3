@@ -1,31 +1,31 @@
 [submodule "MSPR-infra"]
 	path = MSPR-infra
-	url = https://github.com/Sblaaaf/MSPR-infra
+	url = https://github.com/Swaksm/MSPR-infra
 
 [submodule "MSPR-backend-recommendation"]
 	path = MSPR-backend-recommendation
-	url = https://github.com/Sblaaaf/MSPR-backend-recommendation
+	url = https://github.com/Swaksm/MSPR-backend-recommendation
 
 [submodule "MSPR-backend-etl"]
 	path = MSPR-backend-etl
-	url = https://github.com/Sblaaaf/MSPR-backend-etl
+	url = https://github.com/Swaksm/MSPR-backend-etl
 
 [submodule "MSPR-backend-kcal"]
 	path = MSPR-backend-kcal
-	url = https://github.com/Sblaaaf/MSPR-backend-kcal
+	url = https://github.com/Swaksm/MSPR-backend-kcal
 
 [submodule "MSPR-backend-meal"]
 	path = MSPR-backend-meal
-	url = https://github.com/Sblaaaf/MSPR-backend-meal
+	url = https://github.com/Swaksm/MSPR-backend-meal
 
 [submodule "MSPR-backend-auth"]
 	path = MSPR-backend-auth
-	url = https://github.com/Sblaaaf/MSPR-backend-auth
+	url = https://github.com/Swaksm/MSPR-backend-auth
 
 [submodule "MSPR-backend-gateway"]
 	path = MSPR-backend-gateway
-	url = https://github.com/Sblaaaf/MSPR-backend-gateway
+	url = https://github.com/Swaksm/MSPR-backend-gateway
 
 [submodule "MSPR-Frontend"]
 	path = MSPR-Frontend
-	url = https://github.com/Sblaaaf/MSPR-Frontend
+	url = https://github.com/Swaksm/MSPR-Frontend
